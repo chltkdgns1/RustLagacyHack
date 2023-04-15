@@ -1,1 +1,1 @@
-# RustLagacyHack
+# 러스트 레거시 핵 개발 프로젝트
