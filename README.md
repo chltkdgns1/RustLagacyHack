@@ -79,12 +79,6 @@
     * 카메라 생성 후, LineRenderer 를 통해 생성된 오브젝트의 레이어를 cullingMask 와 동일하게 맞춰주면 완료.
 ---------------------------------------- 
 
-https://user-images.githubusercontent.com/49302859/232216195-f933f9ce-9060-4777-ae51-2e2cc9ab0f0f.mp4
-      
-        
-      
-      
-     
 
-  
-  
+https://user-images.githubusercontent.com/49302859/232216629-5616fd3b-aec5-4d9a-9e07-c38527bcd2ec.mp4
+
